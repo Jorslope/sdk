@@ -1,4 +1,4 @@
-# 🚀 TON Connect
+# 🚀 TON Connect protocol
 
 Welcome to the implementation of the TonConnect protocol! Before diving in, here's where to start:
 
@@ -62,4 +62,4 @@ TonConnect UI React is a React UI kit for TonConnect SDK. Use it to connect your
 
 ## 🛠️ Development
 
-Follow the instructions in [DEVELOPERS.md](./DEVELOPERS.md) to set up the development environment.
+Follow the instructions in [development.md](./DEVELOPERS.md) to set up the development environment.
